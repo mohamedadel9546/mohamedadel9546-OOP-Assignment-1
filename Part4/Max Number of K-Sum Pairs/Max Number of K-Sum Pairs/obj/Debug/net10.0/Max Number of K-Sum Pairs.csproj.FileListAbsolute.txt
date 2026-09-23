@@ -1,0 +1,14 @@
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\bin\Debug\net10.0\Max Number of K-Sum Pairs.exe
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\bin\Debug\net10.0\Max Number of K-Sum Pairs.deps.json
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\bin\Debug\net10.0\Max Number of K-Sum Pairs.runtimeconfig.json
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\bin\Debug\net10.0\Max Number of K-Sum Pairs.dll
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\bin\Debug\net10.0\Max Number of K-Sum Pairs.pdb
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\obj\Debug\net10.0\Max Number of K-Sum Pairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\obj\Debug\net10.0\Max Number of K-Sum Pairs.AssemblyInfoInputs.cache
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\obj\Debug\net10.0\Max Number of K-Sum Pairs.AssemblyInfo.cs
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\obj\Debug\net10.0\Max Number of K-Sum Pairs.csproj.CoreCompileInputs.cache
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\obj\Debug\net10.0\Max Number of K-Sum Pairs.dll
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\obj\Debug\net10.0\refint\Max Number of K-Sum Pairs.dll
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\obj\Debug\net10.0\Max Number of K-Sum Pairs.pdb
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\obj\Debug\net10.0\Max Number of K-Sum Pairs.genruntimeconfig.cache
+D:\Gourny .Net\Learn c#\Max Number of K-Sum Pairs\Max Number of K-Sum Pairs\obj\Debug\net10.0\ref\Max Number of K-Sum Pairs.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Max Number of K-Sum Pairs/1.0.0": {
+        "runtime": {
+          "Max Number of K-Sum Pairs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Max Number of K-Sum Pairs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
