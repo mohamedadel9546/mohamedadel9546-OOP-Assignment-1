@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gourny .Net\\Learn c#\\Hotel Reservation System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59FD8A4A-F6B1-4170-B85F-08C9A970B651}|Hotel Reservation System\\Hotel Reservation System.csproj|d:\\gourny .net\\learn c#\\hotel reservation system\\hotel reservation system\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FD8A4A-F6B1-4170-B85F-08C9A970B651}|Hotel Reservation System\\Hotel Reservation System.csproj|solutionrelative:hotel reservation system\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FD8A4A-F6B1-4170-B85F-08C9A970B651}|Hotel Reservation System\\Hotel Reservation System.csproj|d:\\gourny .net\\learn c#\\hotel reservation system\\hotel reservation system\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FD8A4A-F6B1-4170-B85F-08C9A970B651}|Hotel Reservation System\\Hotel Reservation System.csproj|solutionrelative:hotel reservation system\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FD8A4A-F6B1-4170-B85F-08C9A970B651}|Hotel Reservation System\\Hotel Reservation System.csproj|d:\\gourny .net\\learn c#\\hotel reservation system\\hotel reservation system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FD8A4A-F6B1-4170-B85F-08C9A970B651}|Hotel Reservation System\\Hotel Reservation System.csproj|solutionrelative:hotel reservation system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Gourny .Net\\Learn c#\\Hotel Reservation System\\Hotel Reservation System\\Room.cs",
+              "RelativeDocumentMoniker": "Hotel Reservation System\\Room.cs",
+              "ToolTip": "D:\\Gourny .Net\\Learn c#\\Hotel Reservation System\\Hotel Reservation System\\Room.cs",
+              "RelativeToolTip": "Hotel Reservation System\\Room.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T08:01:03.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "D:\\Gourny .Net\\Learn c#\\Hotel Reservation System\\Hotel Reservation System\\Guest.cs",
+              "RelativeDocumentMoniker": "Hotel Reservation System\\Guest.cs",
+              "ToolTip": "D:\\Gourny .Net\\Learn c#\\Hotel Reservation System\\Hotel Reservation System\\Guest.cs",
+              "RelativeToolTip": "Hotel Reservation System\\Guest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA4wCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T07:46:09.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gourny .Net\\Learn c#\\Hotel Reservation System\\Hotel Reservation System\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel Reservation System\\Program.cs",
+              "ToolTip": "D:\\Gourny .Net\\Learn c#\\Hotel Reservation System\\Hotel Reservation System\\Program.cs",
+              "RelativeToolTip": "Hotel Reservation System\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T06:38:13.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Gourny .Net\Learn c#\Design\Design\bin\Debug\net10.0\Design.exe
+D:\Gourny .Net\Learn c#\Design\Design\bin\Debug\net10.0\Design.deps.json
+D:\Gourny .Net\Learn c#\Design\Design\bin\Debug\net10.0\Design.runtimeconfig.json
+D:\Gourny .Net\Learn c#\Design\Design\bin\Debug\net10.0\Design.dll
+D:\Gourny .Net\Learn c#\Design\Design\bin\Debug\net10.0\Design.pdb
+D:\Gourny .Net\Learn c#\Design\Design\obj\Debug\net10.0\Design.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gourny .Net\Learn c#\Design\Design\obj\Debug\net10.0\Design.AssemblyInfoInputs.cache
+D:\Gourny .Net\Learn c#\Design\Design\obj\Debug\net10.0\Design.AssemblyInfo.cs
+D:\Gourny .Net\Learn c#\Design\Design\obj\Debug\net10.0\Design.csproj.CoreCompileInputs.cache
+D:\Gourny .Net\Learn c#\Design\Design\obj\Debug\net10.0\Design.dll
+D:\Gourny .Net\Learn c#\Design\Design\obj\Debug\net10.0\refint\Design.dll
+D:\Gourny .Net\Learn c#\Design\Design\obj\Debug\net10.0\Design.pdb
+D:\Gourny .Net\Learn c#\Design\Design\obj\Debug\net10.0\Design.genruntimeconfig.cache
+D:\Gourny .Net\Learn c#\Design\Design\obj\Debug\net10.0\ref\Design.dll
